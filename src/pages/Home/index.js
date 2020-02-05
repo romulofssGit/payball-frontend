@@ -7,7 +7,7 @@ const Home = () => (
 			<div className="offset-sm-1 col-sm-10">
 				<div className="alert alert-success" role="alert">
 					<h4 className="alert-heading">Payball: Organizando seu futeba.</h4>
-					<p>Aêêê! Bem vindo a SUA mais nova maneira de gerenciar sua patota!</p>
+					<p>Aêêê!!.!! Bem vindo a SUA mais nova maneira de gerenciar sua patota!</p>
 					<hr />
 					<p className="mb-0">Passo a passo:</p>
 					<p className="mb-0">1. Cadastre os membros da sua patota no menu "Jogadores"</p>
